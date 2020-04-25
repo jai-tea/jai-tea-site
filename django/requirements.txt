@@ -1,0 +1,8 @@
+Django==2.1.4
+djangorestframework==3.9.0
+django-cors-headers==2.4.0
+uWSGI==2.0.17.1
+psycopg2-binary
+djangorestframework-jwt
+cryptography
+python-jose

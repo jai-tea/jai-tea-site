@@ -1,0 +1,843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Br",
+				"BrowserModule\t  Variable"
+			],
+			[
+				"Browser",
+				"BrowserModule\t  Class"
+			],
+			[
+				"Bro",
+				"BrowserModule\t  Class"
+			],
+			[
+				"App",
+				"AppModule"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			],
+			[
+				"impo",
+				"import\tkeyword"
+			],
+			[
+				"from",
+				"from\t  Variable"
+			],
+			[
+				"r",
+				"groove\toutline"
+			],
+			[
+				"sig",
+				"signUp\twarning"
+			],
+			[
+				"auth",
+				"authController\tfunction"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"con",
+				"controllers\tdirectory"
+			],
+			[
+				"advanced",
+				"advancedSearchObj\twarning"
+			],
+			[
+				"user",
+				"username\twarning"
+			],
+			[
+				"p",
+				"password\twarning"
+			],
+			[
+				"note",
+				"noteStore\tlocal var"
+			],
+			[
+				"get",
+				"getNotes\tconst"
+			],
+			[
+				"bill",
+				"billing_last_name"
+			],
+			[
+				"billing_cont",
+				"billing_contact_job_title"
+			],
+			[
+				"cu",
+				"customerData"
+			],
+			[
+				"t",
+				"transaction_id"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"actio",
+				"action_chains"
+			],
+			[
+				"action",
+				"actionChains"
+			],
+			[
+				"btn",
+				"btnVideo"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"last_",
+				"last_end_time"
+			],
+			[
+				"elem",
+				"element_load"
+			],
+			[
+				"btnVoice",
+				"btnVoice438"
+			],
+			[
+				"usern",
+				"user_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"TERMINUS",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termi",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termins",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Generate User Theme"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"termiu",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"term",
+				"Terminus Utilities: Remove User Theme"
+			],
+			[
+				"ter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminu",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"l",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"LS",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"diss",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"LSP",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"Set Syntax: Pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"MD",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"impo",
+				"TypeScript: Organize Imports"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP: Ena",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"import",
+				"Import Helper: Insert import"
+			],
+			[
+				"imp",
+				"Import Helper: Insert import"
+			],
+			[
+				"update imports",
+				"Import Helper: Initialize / Setup / Update modules"
+			],
+			[
+				"Impo",
+				"Import Helper: Insert import"
+			],
+			[
+				"packaged",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Update imports",
+				"Import Helper: Update source modules"
+			],
+			[
+				"key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"terminus: ope",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"subl",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package controll: in",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"mark",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"terminus_open",
+			"os.system.math",
+			"os.system(a)",
+			"os.system(as)",
+			"os.system()",
+			"os.system.help",
+			"os.system",
+			"os.time",
+			"import os",
+			"exit()",
+			"quit()",
+			"for i:",
+			"for i;",
+			"for i",
+			"for",
+			"for x in i:",
+			"i",
+			"for x in i",
+			"for x in i:",
+			"i = [1,2]",
+			"python",
+			"ls",
+			"os.system(this)",
+			"os.system()",
+			"os.system",
+			"import os",
+			"view.settings().get(\"syntax\")",
+			"ls",
+			"--version",
+			"--v",
+			"version",
+			"clear",
+			":q",
+			"ls",
+			"git",
+			"n",
+			"node",
+			"quit",
+			"q",
+			":q",
+			"ls",
+			"x",
+			"x = 0",
+			"ls",
+			"quit()",
+			"quit",
+			"ls",
+			"sh start.sh",
+			"sh st",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"cd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jtembry/fun/drf-angular-docker-tutorial",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/migrations"
+	],
+	"file_history":
+	[
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/angular.json",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/api.service.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/Dockerfile",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/environments/environment.prod.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/environments/environment.ts",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoproj/settings_prod.py",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/requirements.txt",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/views.py",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/docker-compose.yaml",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/Pipfile",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/Pipfile.lock",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/permissions.py",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/models.py",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/serializers.py",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/utils.py",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/CloseOtherCommands.py",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/auth/auth.guard.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/app-routing.module.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/callback/callback.component.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/callback/callback.component.html",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/app.component.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/app.component.html",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/auth/auth.service.ts",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/Default (OSX).sublime-keymap",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/node_modules/nan/doc/v8_internals.md",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/migrations/0003_auth0user.py",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/project.sublime-project",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/untitled.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/app.module.ts",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/node_modules/@angular/forms/bundles/forms.umd.js",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/TypeScript/tsserver/tsc.js",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/TypeScript/tsserver/tsserver.ts",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/TypeScript/tsserver/tsserver",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/node_modules/@angular/core/src/render3/jit/module.d.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/node_modules/@angular/core/testing/src/test_compiler.d.ts",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/django-angular.sublime-project",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/package-lock.json",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/untitled.sublime-project",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/untitled.sublime-project",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/angular/angular-app/src/app/angular-django.sublime-project",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/ImportHelper/utils.py",
+		"/Users/jtembry/notes/Toolbelt.md",
+		"/Users/jtembry/fun/drf-angular-docker-tutorial/django/todoapi/migrations/0002_dummy_tasks.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/Pipfile",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/unittests.xml",
+		"/Users/jtembry/Downloads/docker-ansible-continuous-delivery/demos/todobackend/src/requirements_test.txt",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/notes/views.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/notes/serializers.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/notes/models.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/notes/migrations/0001_initial.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/jaitea/asgi.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/jaitea/settings.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/manage.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/jaitea/urls.py",
+		"/Users/jtembry/fun/jaitea.us/jaitea/src/jaitea/wsgi.py",
+		"/Users/jtembry/fun/notes-app/src/controllers/noteController.js",
+		"/Users/jtembry/fun/notes-app/src/routes/noteRoutes.js",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/jtembry/fun/notes-app/src/views/index.ejs",
+		"/Users/jtembry/fun/notes-app/src/routes/circulationDeskRoutes.js",
+		"/Users/jtembry/fun/notes-app/src/controllers/authController.js",
+		"/Users/jtembry/fun/notes-app/README.md",
+		"/Users/jtembry/fun/notes-app/src/controllers/loginController.js",
+		"/Users/jtembry/fun/notes-app/src/routes/authRoutes.js",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/jtembry/development/amp-ccs-accounts/src/directives/custom.directive.js",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/jtembry/development/amp-ccs-accounts/src/views/controllers/pins.controller.js",
+		"/Users/jtembry/fun/notes-app/node_modules/mongodb/lib/collection.js",
+		"/Users/jtembry/fun/notes-app/node_modules/eslint/node_modules/lodash/isNil.js",
+		"/Users/jtembry/fun/notes-app/node_modules/passport-local/lib/strategy.js",
+		"/Users/jtembry/fun/notes-app/src/config/strategies/local.strategy.js",
+		"/Users/jtembry/notes/cyracom/password resets.md",
+		"/Users/jtembry/fun/notes-app/src/views/bookListView.ejs",
+		"/Users/jtembry/Desktop/nodejs-express-web-applications/8-nodejs-express-web-applications-m8-exercise-files/codeEnd/library/src/views/index.ejs",
+		"/Users/jtembry/fun/notes-app/src/services/goodreadsService.js",
+		"/Users/jtembry/fun/notes-app/src/services/evernoteService.js",
+		"/Users/jtembry/fun/notes-app/src/routes/adminRoutes.js",
+		"/Users/jtembry/fun/notes-app/src/config.json",
+		"/Users/jtembry/fun/notes-app/node_modules/evernote/lib/client.js",
+		"/Users/jtembry/fun/notes-app/src/config/strategies/evernote.strategy.js",
+		"/Users/jtembry/WebstormProjects/notes-app/src/controllers/noteController.js",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/angular.sublime-build",
+		"/Users/jtembry/development/web-vi/angular.json",
+		"/Users/jtembry/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/jtembry/development/web-vi/src/app/core/baker.test.ts",
+		"/Users/jtembry/Desktop/session-collection.service.ts",
+		"/Users/jtembry/Desktop/layout.component.ts",
+		"/Users/jtembry/notes/bash/commands",
+		"/Users/jtembry/notes/Designing WebAPIs.pdf",
+		"/Users/jtembry/Desktop/nodejs-express-web-applications/8-nodejs-express-web-applications-m8-exercise-files/codeEnd/library/src/controllers/bookController.js",
+		"/Users/jtembry/Desktop/nodejs-express-web-applications/8-nodejs-express-web-applications-m8-exercise-files/codeEnd/library/src/routes/adminRoutes.js",
+		"/Users/jtembry/notes/Toolbelt.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/jtembry/fun/drf-angular-docker-tutorial/django",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"SECRET_KEY"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.645329444919,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 259.0
+	},
+	"output.Terminus 10":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 11":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 12":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 13":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 7":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 8":
+	{
+		"height": 127.0
+	},
+	"output.Terminus 9":
+	{
+		"height": 127.0
+	},
+	"output.diagnostics":
+	{
+		"height": 144.0
+	},
+	"output.doc":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 144.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 319.0
+	},
+	"output.references":
+	{
+		"height": 271.0
+	},
+	"pinned_build_system": "Packages/User/notes-app.sublime-build",
+	"project": "drf.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"angula",
+				"angular/angular-app/angular.json"
+			],
+			[
+				"Docker",
+				"angular/Dockerfile"
+			],
+			[
+				"api.service",
+				"angular/angular-app/src/app/api.service.ts"
+			],
+			[
+				"envi",
+				"angular/angular-app/src/environments/environment.ts"
+			],
+			[
+				"environment.prod.ts",
+				"angular/angular-app/src/environments/environment.prod.ts"
+			],
+			[
+				"requir",
+				"django/requirements.txt"
+			],
+			[
+				"view",
+				"django/todoapi/views.py"
+			],
+			[
+				"vie",
+				"django/todoapi/views.py"
+			],
+			[
+				"docker",
+				"docker-compose.yaml"
+			],
+			[
+				"settin",
+				"django/todoproj/settings.py"
+			],
+			[
+				"views.py",
+				"django/todoapi/views.py"
+			],
+			[
+				"per",
+				"django/todoapi/permissions.py"
+			],
+			[
+				"views",
+				"django/todoapi/views.py"
+			],
+			[
+				"todoapi/",
+				"django/todoapi/views.py"
+			],
+			[
+				"utils",
+				"django/todoapi/utils.py"
+			],
+			[
+				"util",
+				"django/todoapi/utils.py"
+			],
+			[
+				"",
+				"django/todoapi/utils.py"
+			],
+			[
+				"serializers",
+				"django/todoapi/serializers.py"
+			],
+			[
+				"models.",
+				"django/todoapi/models.py"
+			],
+			[
+				"vi",
+				"angular/angular-app/node_modules/nan/doc/v8_internals.md"
+			],
+			[
+				"todoapi/vie",
+				"django/todoapi/views.py"
+			],
+			[
+				"serial",
+				"django/todoapi/serializers.py"
+			],
+			[
+				"seriali",
+				"django/todoapi/serializers.py"
+			],
+			[
+				"untitled",
+				"angular/angular-app/src/app/untitled.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Migration"
+			]
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

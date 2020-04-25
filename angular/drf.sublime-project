@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jtembry/fun/drf-angular-docker-tutorial"
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"javascript-typescript-langserver":
+			{
+				"enabled": true
+			},
+			"lsp-eslint":
+			{
+				"enabled": true
+			},
+			"lsp-typescript":
+			{
+				"enabled": true
+			}
+		}
+	}
+}
