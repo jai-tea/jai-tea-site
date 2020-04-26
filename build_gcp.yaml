@@ -5,7 +5,7 @@ steps:
   - clone
   - '--depth'
   - '1'
-  - https://github.com/jai-tea/drf-angular-docker-tutorial.git
+  - https://github.com/jai-tea/jai-tea-site.git
 
 # Build and tag the image.
 - name: 'gcr.io/cloud-builders/docker'
