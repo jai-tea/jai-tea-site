@@ -1,1 +1,1 @@
-Dockerized Django Back-end API with Angular Front-end Tutorial
+Dockerized Django Back-end API with Angular Front-end
