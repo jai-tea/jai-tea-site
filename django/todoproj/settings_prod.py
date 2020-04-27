@@ -28,9 +28,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = os.environ['DJANGO_SECRET_KEY']
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['server IP or domain']
 
 
 # Application definition
@@ -88,7 +88,7 @@ DATABASES = {
         'USER': os.environ['DB_USER_DJANGO'],
         'PASSWORD': os.environ['DB_PASSWORD_DJANGO'],
         'HOST': os.environ['CLOUD_SQL_INSTANCE_IP'],
-        'PORT': 5432,
+        'PORT': '5432',
     }
 }
 
