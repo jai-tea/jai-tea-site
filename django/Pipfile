@@ -12,7 +12,7 @@ psycopg2-binary = "*"
 djangorestframework-jwt = "*"
 cryptography = "*"
 python-jose = "*"
-Django = "==2.1.4"
+Django = "==2.2.24"
 
 [requires]
 python_version = "3.7"
